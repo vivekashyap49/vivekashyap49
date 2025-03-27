@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- Animated Name -->
 <p align="center">
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6CC644&center=true&vCenter=true&width=800&lines=Hello,+I'm+Vivek+Kumar!;Passionate+Developer+%7C+Tech+Enthusiast;Backend+%7C+SQL+%7C+Cloud+%7C+AI/ML;Always+Learning+%7C+Building+Awesome+Projects!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=6CC644&center=true&vCenter=true&width=800&lines=Hello,+I'm+Vivek+Kumar!;Passionate+Developer+%7C+Tech+Enthusiast;Frontend+%7C+SQL+%7C+Cloud+%7C+AI/ML;Always+Learning+%7C+Building+Awesome+Projects!"/>
   </a>
 </p>
 
