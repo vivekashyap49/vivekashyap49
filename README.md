@@ -1,20 +1,6 @@
-
-
 <!--
 **vivekashyap49/vivekashyap49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
 
 <!-- Animated Name -->
 <p align="center">
@@ -41,29 +27,41 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- Skills & Tools -->
+<!-- Tech Stack & Tools -->
 ## 🛠 Tech Stack & Tools
+### 👨‍💻 Programming & Scripting:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,js,html,css,bootstrap,react,nodejs,express,mongodb,git,github,vscode,postman&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts" />
+</p>
+
+### 🌐 Frontend Development:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs" />
+</p>
+
+### 🛠 Backend & Databases:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase" />
+</p>
+
+### ☁️ Cloud & DevOps:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
+
+### 🔧 Tools & Platforms:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,intellij,postman,figma" />
 </p>
 
 ---
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekashyap49&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="200" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekashyap49&theme=dark&hide_border=true" alt="GitHub Streak" height="200" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vivekashyap49&show_icons=true&theme=dark&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekashyap49&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekashyap49&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
@@ -84,4 +82,3 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thank%20You%20for%20Visiting!"/>
 </p>
-
